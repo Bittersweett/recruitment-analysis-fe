@@ -1,0 +1,10 @@
+{
+    "/": {
+      "target": "http://localhost:8888/recru_analy/",
+      "logLevel": "debug",
+      "changeOrigin": true,
+      "pathRewrite": {
+           "^/": ""
+      }
+    }
+  }
